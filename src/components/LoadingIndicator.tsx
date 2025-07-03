@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const MatchButton = () => {
+const LoadingIndicator = () => {
   return (
     <View>
-      <Text>MatchButton</Text>
+      <Text>LoadingIndicator</Text>
     </View>
   )
 }
 
-export default MatchButton
+export default LoadingIndicator

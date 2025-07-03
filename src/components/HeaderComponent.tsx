@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const MatchScreen = () => {
+const HeaderComponent = () => {
   return (
     <View>
-      <Text>MatchScreen</Text>
+      <Text>HeaderComponent</Text>
     </View>
   )
 }
 
-export default MatchScreen
+export default HeaderComponent
